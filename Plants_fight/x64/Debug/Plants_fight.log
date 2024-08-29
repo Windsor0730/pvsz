@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\C++\VS2022\Plants_fight\Plants_fight\sun_bullet.h(38,27): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Plants_fight.vcxproj -> C:\C++\VS2022\Plants_fight\x64\Debug\Plants_fight.exe
